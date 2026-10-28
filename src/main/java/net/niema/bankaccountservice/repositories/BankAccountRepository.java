@@ -1,6 +1,6 @@
-package org.sid.bank_account_service.repositories;
+package net.niema.bankaccountservice.repositories;
 
-import org.sid.bank_account_service.entities.BankAccount;
+import net.niema.bankaccountservice.entities.BankAccount;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface BankAccountRepository extends JpaRepository<BankAccount, String> {

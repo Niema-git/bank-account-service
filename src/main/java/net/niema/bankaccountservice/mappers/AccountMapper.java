@@ -1,4 +1,4 @@
-package org.sid.bank_account_service.mappers;
+package net.niema.bankaccountservice.mappers;
 
 import net.niema.bankaccountservice.dto.BankAccountRequestDTO;
 import net.niema.bankaccountservice.dto.BankAccountResponseDTO;

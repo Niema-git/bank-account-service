@@ -1,7 +1,7 @@
-package org.sid.bank_account_service.web;
+package net.niema.bankaccountservice.web;
 
-import org.sid.bank_account_service.entities.BankAccount;
-import org.sid.bank_account_service.repositories.BankAccountRepository;
+import net.niema.bankaccountservice.entities.BankAccount;
+import net.niema.bankaccountservice.repositories.BankAccountRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;

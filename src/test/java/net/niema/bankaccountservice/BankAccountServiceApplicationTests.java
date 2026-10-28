@@ -1,4 +1,4 @@
-package org.sid.bank_account_service;
+package net.niema.bankaccountservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

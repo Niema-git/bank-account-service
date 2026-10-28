@@ -1,4 +1,4 @@
-package org.sid.bank_account_service.enums;
+package net.niema.bankaccountservice.enums;
 
 public enum AccountType {
     CURRENT_ACCOUNT, SAVINGS_ACCOUNT

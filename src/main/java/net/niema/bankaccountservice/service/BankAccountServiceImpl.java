@@ -1,4 +1,4 @@
-package org.sid.bank_account_service.service;
+package net.niema.bankaccountservice.service;
 
 import net.niema.bankaccountservice.dto.BankAccountRequestDTO;
 import net.niema.bankaccountservice.dto.BankAccountResponseDTO;

@@ -1,4 +1,4 @@
-package org.sid.bank_account_service.entities;
+package net.niema.bankaccountservice.entities;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;

@@ -1,4 +1,4 @@
-package org.sid.bank_account_service.repositories;
+package net.niema.bankaccountservice.repositories;
 
 import net.niema.bankaccountservice.entities.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
